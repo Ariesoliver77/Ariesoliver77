@@ -28,7 +28,7 @@ introduceMyself(introduction);
          height=""
          width="45" />, I'm Aries Oliver</h1>
          
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&size=25&duration=3000&pause=500&color=007EFF&width=435&lines=Thank+you+for+visiting+;Welcome+to+my+Profile;Electronics+Enthusiast;Programmer;3rd+Year+-+BSIT+student)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&size=25&duration=3000&pause=500&color=007EFF&width=435&lines=Thank+you+for+visiting+;Welcome+to+my+Profile;+SAMP+Developer)](https://git.io/typing-svg)
 
 
 <h3 align="center"> Software Developer</h3>
